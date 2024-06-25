@@ -1,0 +1,3 @@
+[submodule "Sudoku-Solver-With-Visualization"]
+	path = Sudoku-Solver-With-Visualization
+	url = git@github.com:ryanmogauro/Sudoku-Solver.git
